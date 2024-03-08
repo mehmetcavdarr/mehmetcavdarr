@@ -4,11 +4,11 @@ I am working on becoming a full-stack developer.
 
 [![mehmetcavdarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcavdarr)](https://github.com/mehmetcavdarr/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">A passionate full stack devoloperloper from Turkey</h3>
+<h3 align="center">A passionate full stack devoloper from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/mehmet-%c3%a7avdar-90a021231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mehmet-%c3%a7avdar-90a021231" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/in/mehmet-%c3%a7avdar-90a021231](https://www.linkedin.com/in/mehmet-%C3%A7avdar-90a021231/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mehmet-%c3%a7avdar-90a021231" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mehmetcvdr4567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mehmetcvdr4567" height="30" width="40" /></a>
 </p>
 
